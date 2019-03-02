@@ -2,4 +2,4 @@
 
 new test
 
--branch 1
+-branch 1 new line
